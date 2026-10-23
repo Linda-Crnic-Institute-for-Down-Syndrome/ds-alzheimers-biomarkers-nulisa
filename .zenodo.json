@@ -1,0 +1,48 @@
+{
+  "title": "ds-alzheimers-biomarkers-nulisa: analysis code for \"Integrated lifespan analysis of blood-based biomarkers of Alzheimer's disease and neuropathology in Down syndrome\"",
+  "description": "R-based statistical analysis and visualization code supporting the manuscript \"Integrated lifespan analysis of blood-based biomarkers of Alzheimer's disease and neuropathology in Down syndrome\". The repository contains self-contained R Projects that analyze plasma proteomics generated with the NULISA CNS120 panel in the Human Trisome Project (HTP) and WUSTL cohorts, including comparisons by karyotype (trisomy 21 vs. euploid controls), age, sex, BMI and APOE4 carrier status, sliding-window, age-trajectory clustering, biomarker-ratio, correlation and longitudinal analyses, and APOE genotyping from whole-genome sequencing.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Chillamcherla, Srija",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz"
+    },
+    {
+      "name": "Paul Eduthan, Neetha",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz",
+      "orcid": "0009-0002-6351-0051"
+    },
+    {
+      "name": "Galbraith, Matthew D.",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz",
+      "orcid": "0000-0003-0485-3927"
+    }
+  ],
+  "keywords": [
+    "Down syndrome",
+    "trisomy 21",
+    "Alzheimer's disease",
+    "blood-based biomarkers",
+    "plasma proteomics",
+    "NULISA",
+    "CNS120",
+    "neuropathology",
+    "Human Trisome Project",
+    "INCLUDE",
+    "R"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.20043943",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.19962380",
+      "relation": "references",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Supported primarily by NIH grant R01AI150305 as part of the INCLUDE Project at the NIH Office of the Director. Additional support: NIH grants U2CHL156291 and U24AG092191, the Linda Crnic Institute for Down Syndrome, the Global Down Syndrome Foundation, the Anna and John J. Sie Foundation, and the Boettcher Foundation."
+}
